@@ -1,63 +1,242 @@
-<h1 align="center">Hi 👋, I'm Naufal</h1>
-<h3 align="center">👨‍💻 Student Of Gunadarma University | 🌐 Web & Mobile Developer | 🚀 Long Life Learning</h3>
+```
+ ███╗   ██╗ █████╗ ██╗   ██╗███████╗ █████╗ ██╗     
+ ████╗  ██║██╔══██╗██║   ██║██╔════╝██╔══██╗██║     
+ ██╔██╗ ██║███████║██║   ██║█████╗  ███████║██║     
+ ██║╚██╗██║██╔══██║██║   ██║██╔══╝  ██╔══██║██║     
+ ██║ ╚████║██║  ██║╚██████╔╝██║     ██║  ██║███████╗
+ ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
+```
+
 <div align="center">
-  <p><em>"Keberhasilan bukanlah milik orang yang pintar, tapi milik orang yang tekun dan tidak pernah menyerah."</em></p>
-  <p><strong>— BJ HABIBIE</strong></p>
+
+### 🕹️ **PIXEL WARRIOR** • **CODE ADVENTURER** • **BUG HUNTER** 🎮
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Pixel-Perfect+Web+Experiences;Debugging+with+Retro+Style;React+%E2%80%A2+Next.js+%E2%80%A2+JavaScript+Wizard;Ready+for+New+Adventures!" alt="Typing SVG" />
+
+**Student of Gunadarma University** 🎓 | **Web & Mobile Developer** 💻  
+*Currently grinding XP in the digital realm* 👾
+
 </div>
-<br/><br/>
+
+---
+
+## 🎯 **CURRENT QUEST**
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓ MISSION: Building responsive web experiences        ▓  ║
+║  ▓ STATUS:  [ ████████████████████████████ ] ACTIVE   ▓  ║
+║  ▓ GOAL:    Mastering modern web technologies         ▓  ║
+║  ▓ BONUS:   Contributing to open source projects 🌟   ▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <h2>🚀 About Me</h2>
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2196F3&width=1000&height=100&lines=Building+Responsive+%26+Stunning+Interfaces;Pixel+Perfect+Web+Enthusiast;React+•+Next.js+•+Tailwind+Enjoyer" alt="Typing SVG" />
-</div>
-<br/>
 
-<div>
-  
-  <h2>🛠️ What I Can Do</h2>
-  <p>Skillset yang gue pegang buat bantu lo atau team grow bareng 🚀</p>
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br/>
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /><br/>
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br/>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /><br/>
-        <sub><b>React</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Flutter" /><br/>
-        <sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /><br/>
-        <sub><b>Tailwind Css</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <details>
-    <summary>More Skills</summary>
-    <ul align="left" style="text-align:left;">
-      <li>UI/UX Design (Figma, Canva)</li>
-      <li>RESTful API</li>
-      <li>Problem Solving & Debugging</li>
-      <li>Teamwork & Collaboration</li>
-      <li>Fast Learner & Growth Mindset</li>
-    </ul>
-  </details>
+```
+    ◦•●◉✿ PAC-MAN'S CODING ADVENTURE ✿◉●•◦
+    
+   ᗧ•••ᗤ  •  •  •  •  •  💻  •  •  •  •  •  ᗤ•••ᗧ
+```
+
 </div>
 
+## 💾 **PLAYER STATS**
 
-<!-- Konten About Me lainnya di sini -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```
+┌─ CORE ABILITIES ─────────────────────────────────────────┐
+│                                                          │
+│  🎮 Level: Junior Developer ++                          │
+│  🏛️ Guild: Gunadarma University                          │
+│  🚀 Class: Full-Stack Explorer                          │
+│  ⚡ Special: Lifelong Learner                           │
+│  🏆 EXP: 2000+ Hours of Coding                          │
+│  💡 Achievements: 10+ Projects Completed                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## 🔧 **INVENTORY & POWER-UPS**
+
+### 🏆 **Primary Weapons**
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+</div>
+
+```
+╭─────────────────────────────────────────────╮
+│  HTML5      ████████████████████ 95%  🔥   │
+│  CSS3       ████████████████████ 90%  ⚡   │
+│  JavaScript ███████████████████  85%  ⭐   │
+│  React      ██████████████████   80%  🚀   │
+│  Next.js    █████████████████    75%  ✨   │
+│  Git        ████████████████████ 90%  🛡️   │
+╰─────────────────────────────────────────────╯
+```
+
+### 🎒 **Support Items & Tools**
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+- 🎨 **UI/UX Design** *(Figma, Canva)*
+- 🔗 **REST API Integration**
+- 🤝 **Team Collaboration & Agile**
+- 🔍 **Debug & Problem Solving**
+- 🧠 **Growth Mindset**
+
+---
+
+## 🎮 **FEATURED PROJECTS** - *Game Selection Screen*
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                          🕹️ SELECT YOUR ADVENTURE 🕹️                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<div align="center">
+
+### 🌟 **PROJECT SLOT [1]**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🎯 E-Commerce Platform                                       ║
+║  🧩 React • Next.js • Tailwind • Stripe API                  ║
+║  💾 [Demo] • [Repository]                                     ║
+║  📝 Full-stack e-commerce with payment integration           ║
+║     Modern UI/UX with responsive design                      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### 🌟 **PROJECT SLOT [2]**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🎯 Task Management App                                       ║
+║  🧩 React • Context API • Local Storage                      ║
+║  💾 [Demo] • [Repository]                                     ║
+║  📝 Kanban-style productivity app with drag & drop           ║
+║     Dark/light theme toggle & data persistence              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### 🌟 **PROJECT SLOT [3]**
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🎯 Weather Dashboard                                         ║
+║  🧩 JavaScript • REST API • Chart.js                         ║
+║  💾 [Demo] • [Repository]                                     ║
+║  📝 Real-time weather app with forecast visualization        ║
+║     Geolocation support & interactive charts                ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+```
+◄ ► Use arrow keys to navigate • Press ENTER to view project
+```
+
+</div>
+
+---
+
+## 🌟 **ACHIEVEMENT UNLOCKED**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏆                WISDOM +100                          🏆  │
+│                                                             │
+│  💭 "Keberhasilan bukanlah milik orang yang pintar,        │
+│      tapi milik orang yang tekun dan tidak pernah          │
+│      menyerah."                                             │
+│                                                             │
+│                        — BJ HABIBIE                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🎮 **NOW PLAYING** - *Current Activities*
+
+<img align="right" alt="Game Over" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+```
+┌─ ACTIVE SESSIONS ────────────────────────────────────────────┐
+│                                                              │
+│  🔊 BGM: Lo-fi Coding Beats & Synthwave                     │
+│  📚 Reading: Advanced React Patterns & TypeScript           │
+│  🎯 Building: Personal Portfolio v2.0                       │
+│  🌱 Learning: Three.js & WebGL                              │
+│  🤝 Contributing: Open Source Projects                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+```
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+    ░                                       ░
+    ░  ██╗     ███████╗████████╗███████╗    ░
+    ░  ██║     ██╔════╝╚══██╔══╝██╔════╝    ░
+    ░  ██║     █████╗     ██║   ███████╗    ░
+    ░  ██║     ██╔══╝     ██║   ╚════██║    ░
+    ░  ███████╗███████╗   ██║   ███████║    ░
+    ░  ╚══════╝╚══════╝   ╚═╝   ╚══════╝    ░
+    ░                                       ░
+    ░        🚀 COLLABORATE! 🚀              ░
+    ░                                       ░
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+**Ready to build something awesome together?** 👾💾🔧
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=pixel)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+
+</div>
+
+*Made with ❤️, lots of ☕, and retro game nostalgia in 2024*
+
+```
+ᗧ•••ᗤ GAME OVER - PRESS START TO CONTINUE ᗤ•••ᗧ
+```
+
+</div>
