@@ -1,237 +1,75 @@
-```
- ███╗   ██╗ █████╗ ██╗   ██╗███████╗ █████╗ ██╗
- ████╗  ██║██╔══██╗██║   ██║██╔════╝██╔══██╗██║
- ██╔██╗ ██║███████║██║   ██║█████╗  ███████║██║
- ██║╚██╗██║██╔══██║██║   ██║██╔══╝  ██╔══██║██║
- ██║ ╚████║██║  ██║╚██████╔╝██║     ██║  ██║███████╗
- ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
-```
+# Halo, saya Naufal 👋
 
-<div align="center">
+Mahasiswa Teknik Informatika di Universitas Gunadarma, fokus di **frontend development**, dengan minat berkembang di **data science** dan **Python**. Saya belajar lewat proses membangun proyek nyata — bukan cuma nonton tutorial.
 
-### 🕹️ **PIXEL WARRIOR** • **CODE ADVENTURER** • **BUG HUNTER** 🎮
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Pixel-Perfect+Web+Experiences;Debugging+with+Retro+Style;React+%E2%80%A2+Next.js+%E2%80%A2+JavaScript+Wizard;Ready+for+New+Adventures!" alt="Typing SVG" />
-
-**Student of Gunadarma University** 🎓 | **Web & Mobile Developer** 💻  
-_Currently grinding XP in the digital realm_ 👾
-
-</div>
+Saat ini sedang membangun personal finance tracker dan mengasah kemampuan Django untuk sistem penjadwalan berbasis web.
 
 ---
 
-## 🎯 **CURRENT QUEST**
+## 🛠️ Stack
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-║  ▓ MISSION: Building responsive web experiences        ▓  ║
-║  ▓ STATUS:  [ ████████████████████████████ ] ACTIVE   ▓  ║
-║  ▓ GOAL:    Mastering modern web technologies         ▓  ║
-║  ▓ BONUS:   Contributing to open source projects 🌟   ▓  ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-╚═══════════════════════════════════════════════════════════╝
-```
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<img src="https://github.com/naufalyuu1234/naufalyuu1234/blob/main/assets/mario.gif?raw=true" width="80" alt="Pacman" />
+**Backend & Bahasa**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💾 **PLAYER STATS**
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```
-┌─ CORE ABILITIES ─────────────────────────────────────────┐
-│                                                          │
-│  🎮 Level: Junior Developer ++                          │
-│  🏛️ Guild: Gunadarma University                          │
-│  🚀 Class: Full-Stack Explorer                          │
-│  ⚡ Special: Lifelong Learner                           │
-│  🏆 EXP: 2000+ Hours of Coding                          │
-│  💡 Achievements: 10+ Projects Completed                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-
-</div>
-
----
-
-## 🔧 **INVENTORY & POWER-UPS**
-
-### 🏆 **Primary Weapons**
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-
-</div>
-
-```
-╭─────────────────────────────────────────────╮
-│  HTML5      ████████████████████ 95%  🔥   │
-│  CSS3       ████████████████████ 90%  ⚡   │
-│  JavaScript ███████████████████  85%  ⭐   │
-│  React      ██████████████████   80%  🚀   │
-│  Next.js    █████████████████    75%  ✨   │
-│  Git        ████████████████████ 90%  🛡️   │
-╰─────────────────────────────────────────────╯
-```
-
-### 🎒 **Support Items & Tools**
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
-- 🎨 **UI/UX Design** _(Figma, Canva)_
-- 🔗 **REST API Integration**
-- 🤝 **Team Collaboration & Agile**
-- 🔍 **Debug & Problem Solving**
-- 🧠 **Growth Mindset**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🎮 **FEATURED PROJECTS** - _Game Selection Screen_
+## 🚀 Proyek
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                          🕹️ SELECT YOUR ADVENTURE 🕹️                          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<!--
+CARA MENGISI SETIAP PROYEK:
+1. Ganti "Nama Proyek" dengan nama asli proyek lo.
+2. Ganti (link-repo-di-sini) dengan URL repo GitHub-nya.
+3. Ganti satu kalimat deskripsi — jelaskan APA fungsinya, bukan kata sifat hype ("keren", "modern", dst).
+4. Ganti daftar stack sesuai proyek itu.
+5. Kalau ada live demo, tambahkan baris "🔗 Demo" dengan link-nya. Kalau belum ada, HAPUS baris itu — jangan dibiarkan kosong/placeholder.
+6. Hapus blok proyek yang gak relevan, jangan biarkan blok kosong nangkring di README publik.
+-->
 
-<div align="center">
+### [Nama Proyek](link-repo-di-sini)
+Satu kalimat: proyek ini melakukan apa, untuk siapa/kasus apa.
 
-### 🌟 **PROJECT SLOT [1]**
+**Stack:** Next.js · TypeScript · Tailwind CSS
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🎯 E-Commerce Platform                                       ║
-║  🧩 React • Next.js • Tailwind • Stripe API                  ║
-║  💾 [Demo] • [Repository]                                     ║
-║  📝 Full-stack e-commerce with payment integration           ║
-║     Modern UI/UX with responsive design                      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-### 🌟 **PROJECT SLOT [2]**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🎯 Task Management App                                       ║
-║  🧩 React • Context API • Local Storage                      ║
-║  💾 [Demo] • [Repository]                                     ║
-║  📝 Kanban-style productivity app with drag & drop           ║
-║     Dark/light theme toggle & data persistence              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-### 🌟 **PROJECT SLOT [3]**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  🎯 Weather Dashboard                                         ║
-║  🧩 JavaScript • REST API • Chart.js                         ║
-║  💾 [Demo] • [Repository]                                     ║
-║  📝 Real-time weather app with forecast visualization        ║
-║     Geolocation support & interactive charts                ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-```
-◄ ► Use arrow keys to navigate • Press ENTER to view project
-```
-
-</div>
+🔗 [Demo](link-demo-di-sini) *(hapus baris ini kalau belum ada demo)*
 
 ---
 
-## 🌟 **ACHIEVEMENT UNLOCKED**
+### [Nama Proyek](link-repo-di-sini)
+Satu kalimat: proyek ini melakukan apa, untuk siapa/kasus apa.
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏆                WISDOM +100                          🏆  │
-│                                                             │
-│  💭 "Keberhasilan bukanlah milik orang yang pintar,        │
-│      tapi milik orang yang tekun dan tidak pernah          │
-│      menyerah."                                             │
-│                                                             │
-│                        — BJ HABIBIE                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+**Stack:** Django · Python
 
 ---
 
-## 🎮 **NOW PLAYING** - _Current Activities_
+### [Nama Proyek](link-repo-di-sini)
+Satu kalimat: proyek ini melakukan apa, untuk siapa/kasus apa.
 
-<img align="right" alt="Game Over" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-```
-┌─ ACTIVE SESSIONS ────────────────────────────────────────────┐
-│                                                              │
-│  🔊 BGM: Lo-fi Coding Beats & Synthwave                     │
-│  📚 Reading: Advanced React Patterns & TypeScript           │
-│  🎯 Building: Personal Portfolio v2.0                       │
-│  🌱 Learning: Three.js & WebGL                              │
-│  🤝 Contributing: Open Source Projects                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+**Stack:** React · JavaScript
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-```
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░                                       ░
-    ░  ██╗     ███████╗████████╗███████╗    ░
-    ░  ██║     ██╔════╝╚══██╔══╝██╔════╝    ░
-    ░  ██║     █████╗     ██║   ███████╗    ░
-    ░  ██║     ██╔══╝     ██║   ╚════██║    ░
-    ░  ███████╗███████╗   ██║   ███████║    ░
-    ░  ╚══════╝╚══════╝   ╚═╝   ╚══════╝    ░
-    ░                                       ░
-    ░        🚀 COLLABORATE! 🚀              ░
-    ░                                       ░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalyuu1234&show_icons=true&hide_border=true&theme=default)
 
-**Ready to build something awesome together?** 👾💾🔧
+---
 
-<div align="center">
+## 📫 Terhubung
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=pixel)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+Terbuka untuk diskusi, kolaborasi, atau sekadar ngobrol soal proyek.
 
-</div>
-
-_Made with ❤️, lots of ☕, and retro game nostalgia in 2024_
-
-```
-ᗧ•••ᗤ GAME OVER - PRESS START TO CONTINUE ᗤ•••ᗧ
-```
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG_DI_SINI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email-lo@contoh.com)
