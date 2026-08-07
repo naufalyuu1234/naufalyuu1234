@@ -36,27 +36,23 @@ CARA MENGISI SETIAP PROYEK:
 -->
 
 ### [My-Todolist](https://github.com/naufalyuu1234/My-TodoList)
+
 My TodoList adalah project yang saya kembangkan untuk membantu mengelola dan mengorganisir tugas sehari-hari dengan lebih terstruktur. Project ini dibangun menggunakan Next.js dan Tailwind CSS, sekaligus menjadi media bagi saya untuk mengasah kemampuan frontend development dan terus mengeksplorasi hal-hal baru dalam pengembangan web.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS
 
-🔗 [Demo](my-todo-list-amber.vercel.app) 
+🔗 [Demo](https://my-todo-list-amber.vercel.app)
 
 ---
 
 ### [Portofolio Project](https://github.com/naufalyuu1234/portofolio-project)
+
 Project ini saya buat sebagai wadah untuk memperkenalkan diri, membagikan keahlian yang saya miliki, serta menampilkan berbagai project yang sedang dan pernah saya kembangkan. Lebih dari sekadar portfolio, project ini juga menjadi bagian dari proses belajar coding saya—tempat saya mencoba hal baru, menemukan kesalahan, dan terus mengembangkan kemampuan. Bagi saya, portfolio ini juga menjadi pengingat bahwa masih banyak hal yang perlu dipelajari dan dikembangkan ke depannya.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS
-🔗 portofolio-project-seven-theta.vercel.app
----
 
-### [Nama Proyek](link-repo-di-sini)
-Satu kalimat: proyek ini melakukan apa, untuk siapa/kasus apa.
+🔗 [Demo](https://portofolio-project-seven-theta.vercel.app)
 
-**Stack:** React · JavaScript
-
----
 
 ## 📊 GitHub Stats
 
