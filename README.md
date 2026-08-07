@@ -56,15 +56,14 @@ Project ini saya buat sebagai wadah untuk memperkenalkan diri, membagikan keahli
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalyuu1234&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naufalyuu1234&show_icons=true&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalyuu1234&layout=compact&hide_border=true&theme=default)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalyuu1234&layout=compact&hide_border=true&theme=default)
 ---
 
 ## 📫 Terhubung
 
 Terbuka untuk diskusi, kolaborasi, atau sekadar ngobrol soal proyek.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG_DI_SINI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email-lo@contoh.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/naufaru_kun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naufalyuu62@gmail.com)
