@@ -58,6 +58,8 @@ Project ini saya buat sebagai wadah untuk memperkenalkan diri, membagikan keahli
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalyuu1234&show_icons=true&hide_border=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalyuu1234&layout=compact&hide_border=true&theme=default)
+
 ---
 
 ## 📫 Terhubung
