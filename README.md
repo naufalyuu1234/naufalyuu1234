@@ -35,12 +35,12 @@ CARA MENGISI SETIAP PROYEK:
 6. Hapus blok proyek yang gak relevan, jangan biarkan blok kosong nangkring di README publik.
 -->
 
-### [Nama Proyek](link-repo-di-sini)
-Satu kalimat: proyek ini melakukan apa, untuk siapa/kasus apa.
+### [My-Todolist](https://github.com/naufalyuu1234/My-TodoList)
+My TodoList adalah project yang saya kembangkan untuk membantu mengelola dan mengorganisir tugas sehari-hari dengan lebih terstruktur. Project ini dibangun menggunakan Next.js dan Tailwind CSS, sekaligus menjadi media bagi saya untuk mengasah kemampuan frontend development dan terus mengeksplorasi hal-hal baru dalam pengembangan web.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS
 
-🔗 [Demo](link-demo-di-sini) *(hapus baris ini kalau belum ada demo)*
+🔗 [Demo](my-todo-list-amber.vercel.app) 
 
 ---
 
