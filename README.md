@@ -1,9 +1,6 @@
 # Halo, saya Naufal 👋
 
-Mahasiswa Teknik Informatika di Universitas Gunadarma, fokus di **frontend development**, dengan minat berkembang di **data science** dan **Python**. Saya belajar lewat proses membangun proyek nyata — bukan cuma nonton tutorial.
-
-Saat ini sedang membangun personal finance tracker dan mengasah kemampuan Django untuk sistem penjadwalan berbasis web.
-
+Mahasiswa Teknik Informatika di Universitas Gunadarma yang tertarik pada Frontend dan Full Stack Development, serta sedang mengeksplorasi Data Science dan Python. Saya senang belajar dengan cara langsung membangun project, karena menurut saya memahami bagaimana sebuah aplikasi bekerja jauh lebih penting daripada sekadar mengetahui cara menulis kodenya.
 ---
 
 ## 🛠️ Stack
