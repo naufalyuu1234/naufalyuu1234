@@ -25,6 +25,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
 ### ⚙️ Backend & Bahasa Pemrograman
  
 <p>
@@ -32,6 +33,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
+
 ### 🗄️ Database
  
 <p>
@@ -39,6 +41,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
 ### 🧰 Developer Tools
  
 <p>
@@ -51,6 +54,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
 ### 🎬 Design & Kreatif
  
 <p>
@@ -67,15 +71,6 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
 </p>
 ## 🚀 Proyek
 
-<!--
-CARA MENGISI SETIAP PROYEK:
-1. Ganti "Nama Proyek" dengan nama asli proyek lo.
-2. Ganti (link-repo-di-sini) dengan URL repo GitHub-nya.
-3. Ganti satu kalimat deskripsi — jelaskan APA fungsinya, bukan kata sifat hype ("keren", "modern", dst).
-4. Ganti daftar stack sesuai proyek itu.
-5. Kalau ada live demo, tambahkan baris "🔗 Demo" dengan link-nya. Kalau belum ada, HAPUS baris itu — jangan dibiarkan kosong/placeholder.
-6. Hapus blok proyek yang gak relevan, jangan biarkan blok kosong nangkring di README publik.
--->
 
 ### [My-Todolist](https://github.com/naufalyuu1234/My-TodoList)
 
