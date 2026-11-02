@@ -12,7 +12,6 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
 <p align="center">
   Teknologi dan tools yang saya gunakan sehari-hari, serta yang sedang saya pelajari.
 </p>
----
  
 ### 🎨 Frontend
  
@@ -61,7 +60,6 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/Figma-Learning-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma - Learning" />
   <img src="https://img.shields.io/badge/Blender-Learning-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender - Learning" />
 </p>
----
  
 ### 🌱 Sedang Dipelajari
  
@@ -69,26 +67,45 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   <img src="https://img.shields.io/badge/Figma-Learning-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Blender-Learning-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 </p>
-## 🚀 Proyek
 
-
-### [My-Todolist](https://github.com/naufalyuu1234/My-TodoList)
-
-My TodoList adalah project yang saya kembangkan untuk membantu mengelola dan mengorganisir tugas sehari-hari dengan lebih terstruktur. Project ini dibangun menggunakan Next.js dan Tailwind CSS, sekaligus menjadi media bagi saya untuk mengasah kemampuan frontend development dan terus mengeksplorasi hal-hal baru dalam pengembangan web.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
-🔗 [Demo](https://my-todo-list-amber.vercel.app)
-
----
-
-### [Portofolio Project](https://github.com/naufalyuu1234/portofolio-project)
-
-Project ini saya buat sebagai wadah untuk memperkenalkan diri, membagikan keahlian yang saya miliki, serta menampilkan berbagai project yang sedang dan pernah saya kembangkan. Lebih dari sekadar portfolio, project ini juga menjadi bagian dari proses belajar coding saya—tempat saya mencoba hal baru, menemukan kesalahan, dan terus mengembangkan kemampuan. Bagi saya, portfolio ini juga menjadi pengingat bahwa masih banyak hal yang perlu dipelajari dan dikembangkan ke depannya.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
-🔗 [Demo](https://portofolio-project-seven-theta.vercel.app)
+<h2 align="center">🚀 Proyek</h2>
+ 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/naufalyuu1234/My-TodoList">📝 My-Todolist</a></h3>
+      <p>
+        Aplikasi untuk membantu mengelola dan mengorganisir tugas sehari-hari secara lebih terstruktur.
+        Sekaligus media saya mengasah kemampuan frontend dan mengeksplorasi hal baru di pengembangan web.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p>
+        <a href="https://my-todo-list-amber.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <a href="https://github.com/naufalyuu1234/My-TodoList"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/naufalyuu1234/portofolio-project">💼 Portofolio Project</a></h3>
+      <p>
+        Wadah untuk memperkenalkan diri, membagikan keahlian, dan menampilkan project yang pernah dan sedang saya kembangkan.
+        Juga bagian dari proses belajar coding saya: mencoba hal baru, menemukan kesalahan, dan terus berkembang.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p>
+        <a href="https://portofolio-project-seven-theta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <a href="https://github.com/naufalyuu1234/portofolio-project"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
