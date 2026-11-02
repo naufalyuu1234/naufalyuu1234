@@ -107,7 +107,6 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
   </tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -115,7 +114,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalyuu1234&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/naufalyuu1234" alt="Contribution Chart" />
 </p>
 
 ---
