@@ -1,6 +1,10 @@
-# Halo, saya Naufal 👋
+# Halo, perkenalkan saya Naufal 👋
 
-Mahasiswa Teknik Informatika di Universitas Gunadarma yang tertarik pada Frontend dan Full Stack Development, serta sedang mengeksplorasi Data Science dan Python. Saya senang belajar dengan cara langsung membangun project, karena menurut saya memahami bagaimana sebuah aplikasi bekerja jauh lebih penting daripada sekadar mengetahui cara menulis kodenya.
+Sebagai mahasiswa Informatika, saat ini saya sedang mempelajari banyak hal, mulai dari UI/UX Design, 3D Modeling, Front-End, hingga Back-End Development. Saya senang mengeksplorasi hal-hal baru dan mempelajari sesuatu yang sebelumnya belum saya ketahui.
+
+Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan berbagai keadaan. Namun, jangan sampai kita hanya terbawa arus tanpa tahu apa yang sebenarnya kita sukai. Teruslah mencoba, temukan hal yang membuat kita tertarik, dan nikmati setiap prosesnya.
+
+**Keep learning and have fun!**
 ---
 
 ## 🛠️ Stack
