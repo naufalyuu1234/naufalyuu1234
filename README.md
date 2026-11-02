@@ -110,9 +110,14 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naufalyuu1234&show_icons=true&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=naufalyuu1234&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalyuu1234&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalyuu1234&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ## 📫 Terhubung
