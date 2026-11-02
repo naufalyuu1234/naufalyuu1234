@@ -69,11 +69,11 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
 </p>
 
 <h2 align="center">🚀 Proyek</h2>
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/naufalyuu1234/My-TodoList">📝 My-Todolist</a></h3>
+      <h3>📝 My-Todolist</h3>
       <p>
         Aplikasi untuk membantu mengelola dan mengorganisir tugas sehari-hari secara lebih terstruktur.
         Sekaligus media saya mengasah kemampuan frontend dan mengeksplorasi hal baru di pengembangan web.
@@ -89,7 +89,7 @@ Bagi saya, hidup harus seperti air: terus mengalir dan mampu beradaptasi dengan 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/naufalyuu1234/portofolio-project">💼 Portofolio Project</a></h3>
+      <h3>💼 Portofolio Project</h3>
       <p>
         Wadah untuk memperkenalkan diri, membagikan keahlian, dan menampilkan project yang pernah dan sedang saya kembangkan.
         Juga bagian dari proses belajar coding saya: mencoba hal baru, menemukan kesalahan, dan terus berkembang.
